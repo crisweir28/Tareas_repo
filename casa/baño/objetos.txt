@@ -5,3 +5,4 @@
 4- regadera
 5- portapapel
 6- percheros 
+7- espejo
