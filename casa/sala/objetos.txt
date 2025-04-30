@@ -1,0 +1,7 @@
+#objetos que hay en una sala 
+1- sillones 
+2- mesa
+3- television
+4- juguetero
+5- radio
+6- ventilador 

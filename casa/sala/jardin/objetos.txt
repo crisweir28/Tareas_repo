@@ -1,0 +1,8 @@
+#objetos que hay dentro de un jardin 
+1- sillas
+2- mesas
+3- plantas
+4- sombrillas
+5- arboles
+6- pasto
+

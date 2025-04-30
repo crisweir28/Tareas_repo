@@ -1,0 +1,7 @@
+#objetos que hay en un cuarto 
+1- cama 
+2- escritorio
+3- television
+4- ropero
+5- mesaDeNoche
+6- ventilador 

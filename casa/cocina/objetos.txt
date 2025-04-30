@@ -1,0 +1,7 @@
+#objetos que hay en una cocina 
+1- estufa 
+2- ventana
+3- horno
+4- refrigerador
+5- lavadero
+6- mesa 

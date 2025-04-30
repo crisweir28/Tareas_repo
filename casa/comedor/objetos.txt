@@ -1,0 +1,7 @@
+#objetos que hay en un comedor 
+1- mesa 
+2- sillas
+3- cubiertos
+4- jarrasDeAgua
+5- frutero
+6- platos 

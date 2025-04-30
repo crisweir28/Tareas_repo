@@ -1,0 +1,7 @@
+#objetos que hay en un baño 
+1- regadera 
+2- estante
+3- inodoro
+4- regadera
+5- portapapel
+6- percheros 

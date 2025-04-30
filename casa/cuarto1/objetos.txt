@@ -1,0 +1,7 @@
+#objetos que hay en un cuarto 
+1- cuna 
+2- mesa de noche
+3- juguetero
+4- ropero
+5- ventana
+6- tapete
